@@ -1,8 +1,0 @@
-name: "Article Page"
-interval: 12
-
-parameters:
-  connectivity: "Cable"
-  location: "Dulles:Chrome"
-  runs: 3
-  url: "https://www.masterclass.com/articles/cooking-salmon-with-gordon-ramsay"
